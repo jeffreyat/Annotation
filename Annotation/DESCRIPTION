@@ -1,0 +1,15 @@
+Package: Annotation
+Version: 0.1.1
+Date: 2015-06-02
+Title: Annotation
+Authors: c(person("Jeffrey Thompson",
+    "Developer",
+    email = "..."))
+Author: Jeffrey Thompson
+Maintainer: Jeffrey Thompson <jeffrey.a.thompson.gr@dartmouth.edu>
+Description: A class to serve as the base of genomic annotations.
+License: GPL (>= 2)
+Depends:
+    plyr
+Suggests:
+    test
